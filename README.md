@@ -1,2 +1,2 @@
-# git_ws_AuE893
-Repo for Autonomy: Science and Systems at Clemson University Spring 2021
+# README.md
+My name is Mikaila Gossman, I am currently a second semester PhD student in Clemson's Electrical and Computer Engineering Department. My research focuses on using machine learning to facilitate object identification, classification, and tracking, as well as using machine learning to aid in data compression methodology decisions in High Performance Computing (HPC) applications. This repository contains all my work for Autonomy: Science and Systems class. This class focuses on autonomous robotic sensing and moving. This repository will contain various folders for projects as I progress throughout the course.
