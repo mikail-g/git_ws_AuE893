@@ -17,4 +17,4 @@ square_closedloop.py
 This script moves the turtlebot in a 3x3 square but instead of setting distances, it moves based on cartesian coordinates. Using the 'Go to Goal' ROS tutorial (http://wiki.ros.org/turtlesim/Tutorials/Go%20to%20Goal). I basically just used this code, with some minor changes to work with python3 rather than python. __init__ sets up the communication channels and data structures. update_pose updates the position data structure. euclid_dist calculates the euclidean distance between two points via the distance formula. steering angle calculate the angle to turn the turtlesim, linear_vel and angular_vel determine the respective velocities. I added the rotate function from square_openloop and modified it to take in a desired angle as an argument. move2goal moves the turtlesim to the specified location via the tutorials method. I call move2goal and rotate in succession through the coordinates (5,5)-->(8,5)-->(8,8)-->(5,8)-->(5,5) 
 
 
-![Alt text](https://github.com/mikail-g/git_ws_AuE893/blob/main/Assignment2/Pictures/square_closedloop.png)
+![Alt text](https://github.com/mikail-g/git_ws_AuE893/blob/main/Assignment2/Pictures/sqaure_closedloop.png)
